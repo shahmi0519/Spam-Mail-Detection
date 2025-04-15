@@ -62,7 +62,7 @@ This machine learning project detects spam emails using text classification tech
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/spam-mail-detection.git
+   git clone https://github.com/shahmi0519/Spam-Mail-Detection.git
    cd spam-mail-detection
    ```
 2. Install dependencies:
