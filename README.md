@@ -100,10 +100,10 @@ This machine learning project detects spam emails using text classification tech
 
 ## ✍️ Author
 **Ahamed Shahmi A.J**
-- **📧 Mail**: shahmiahamed0519@gmail.com
-- **🔗 LinkedIn**: Ahamed Shahmi (https://www.linkedin.com/in/ahamed-shahmi-abduljabbar/)
-- **💻 GitHub**: shahmi0519 (https://github.com/shahmi0519)
-
+- **📧 Mail**: [`shahmiahamed0519@gmail.com`](mailto:shahmiahamed0519@gmail.com)
+- **🔗 LinkedIn**: [`Ahamed Shahmi`](https://www.linkedin.com/in/ahamed-shahmi-abduljabbar/)
+- **💻 GitHub**: [`shahmi0519`](https://github.com/shahmi0519)
+---
 
 ## 📝 License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
